@@ -1,0 +1,11 @@
+E:\RPG\Client\Assets\Scripts\Net\Server.exe.config
+E:\RPG\Client\Assets\Scripts\Net\Server.exe
+E:\RPG\Client\Assets\Scripts\Net\Server.pdb
+E:\RPG\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\RPG\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\RPG\Server\Server\obj\Debug\Server.csproj.CopyComplete
+E:\RPG\Server\Server\obj\Debug\Server.exe
+E:\RPG\Server\Server\obj\Debug\Server.pdb
+E:\RPG\Server\bin\Server.exe.config
+E:\RPG\Server\bin\Server.exe
+E:\RPG\Server\bin\Server.pdb
